@@ -1,0 +1,9 @@
+<h1>这是一个划分switch评价类型的应用</h1>
+<h2>请在下面方栏目中输入一条关于国行版switch的评价或看法:</h2>
+<form  method="POST">
+    {# This hidden_tag is a CSRF security feature. #}
+    {{ form.hidden_tag() }}
+    {{ form.text.label }} {{form.text}}
+    <br>
+    {{ form.submit() }}
+</form>
