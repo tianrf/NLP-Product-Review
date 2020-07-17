@@ -13,4 +13,4 @@ The **utilities.py** includes 3 functions and one class for data processing. The
 
 ## Model
 There are three models built through tensorflow. All of 3 models obtained similar performance on dev set. Here, the architeture of model 3 are shown:
-![Model3 Architect](/image/model3 architect.jpeg)
+![Model3 Architect](https://github.com/tianrf/NLP-Product-Review/image/model3 architect.jpeg)
