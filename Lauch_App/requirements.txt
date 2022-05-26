@@ -13,7 +13,7 @@ h5py==2.10.0
 idna==2.8
 itsdangerous==1.1.0
 Jinja2==2.10.3
-tensorflow==2.0.0b1
+tensorflow==2.7.2
 joblib==0.14.1
 jieba==0.42.1
 numpy>=1.9.2
